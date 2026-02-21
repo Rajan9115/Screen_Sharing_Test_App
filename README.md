@@ -146,14 +146,17 @@ stream.getTracks().forEach(track => track.stop());
   <img width="700"  alt="Screenshot 2026-02-21 135709" src="https://github.com/user-attachments/assets/b0aa991e-6bce-4848-b3be-4895138e9831" />
 </p>
 
-### Display type
+### Display type with Brave & Firefox
 <p align="center">
-  <img width="1914" height="960" alt="Screenshot 2026-02-21 135732" src="https://github.com/user-attachments/assets/62d701c1-3431-47bc-a6fc-1cea1e7c43af" />
+  <img width="350" alt="Screenshot 2026-02-21 135732" src="https://github.com/user-attachments/assets/62d701c1-3431-47bc-a6fc-1cea1e7c43af" />
+  &nbsp;&nbsp;
+  <img width="350" alt="Screenshot 2026-02-21 144028" src="https://github.com/user-attachments/assets/8668bec9-880f-44b1-a2d2-8ba1f702e101" />
+
 </p>
 
 ### Active screen sharing
 <p align="center">
-  <img width="1910" height="1074" alt="Screenshot 2026-02-21 135842" src="https://github.com/user-attachments/assets/decc6aec-ee7a-4e57-9a1c-1f1599410741" />
+  <img width="700" " alt="Screenshot 2026-02-21 135842" src="https://github.com/user-attachments/assets/decc6aec-ee7a-4e57-9a1c-1f1599410741" />
 
 </p>
 
